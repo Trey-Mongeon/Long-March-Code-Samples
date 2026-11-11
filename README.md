@@ -14,7 +14,9 @@ As the only graphics programmer on the team I had the task of learning OpenGL an
 
 
 
-https://github.com/user-attachments/assets/b79b30de-db89-47ea-92da-01d19258bbd9
+
+https://github.com/user-attachments/assets/811a6369-efe3-4386-8a44-01d9c239d179
+
 
 
 
