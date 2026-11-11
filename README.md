@@ -11,7 +11,7 @@ As the only graphics programmer on the team I had the task of learning OpenGL an
 ### Particle System
 
 
-<video src="Videos/LongMarchParticleEfficiencyDemo.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/Trey-Mongeon/Long-March-Code-Samples/main/Videos/LongMarchParticleEfficiencyDemo.mp4" controls width="100%"></video>
 
 
 The thing that I am most proud of in this project is my custom particle system. Throughout development I was always excited to improve it and expand its functionality.
