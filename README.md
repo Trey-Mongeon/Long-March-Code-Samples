@@ -13,6 +13,11 @@ As the only graphics programmer on the team I had the task of learning OpenGL an
 ### Particle System
 
 
+
+https://github.com/user-attachments/assets/b79b30de-db89-47ea-92da-01d19258bbd9
+
+
+
 The thing that I am most proud of in this project is my custom particle system. Throughout development I was always excited to improve it and expand its functionality.
 
 #### [Emitters](https://github.com/Trey-Mongeon/Long-March-Code-Samples/blob/main/Emitter.h)
