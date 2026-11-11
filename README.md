@@ -1,3 +1,5 @@
+
+
 # Overview
 
 This repository contains some code from my Sophomore year game project at DigiPen Institute of Technology. This game is actually on steam if you would Like to see it for yourself: [Long March](https://store.steampowered.com/app/5206450/Long_March).
@@ -9,9 +11,6 @@ As the only graphics programmer on the team I had the task of learning OpenGL an
 
 
 ### Particle System
-
-
-<video src="https://raw.githubusercontent.com/Trey-Mongeon/Long-March-Code-Samples/main/Videos/LongMarchParticleEfficiencyDemo.mp4" controls width="100%"></video>
 
 
 The thing that I am most proud of in this project is my custom particle system. Throughout development I was always excited to improve it and expand its functionality.
