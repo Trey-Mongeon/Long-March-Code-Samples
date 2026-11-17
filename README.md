@@ -1,5 +1,3 @@
-
-
 # Overview
 
 This repository contains some code from my Sophomore year game project at DigiPen Institute of Technology. This game is actually on steam if you would Like to see it for yourself: [Long March](https://store.steampowered.com/app/5206450/Long_March).
@@ -9,16 +7,12 @@ This repository contains some code from my Sophomore year game project at DigiPe
 As the only graphics programmer on the team I had the task of learning OpenGL and creating a 2D graphics engine at the same time, while also working fast enough that I did not hold back progress on the game.
 
 
-
-### Particle System
-
-
-
-
+A short video demonstrating lots of particles being rendered and the text system in action.
 https://github.com/user-attachments/assets/811a6369-efe3-4386-8a44-01d9c239d179
 
 
 
+### Particle System
 
 The thing that I am most proud of in this project is my custom particle system. Throughout development I was always excited to improve it and expand its functionality.
 
@@ -35,6 +29,11 @@ Particles are my favorite part of the particle system, which is fitting, because
 
 At the time of making my particle system I was delighted at what I had designed and built and I often tried to think of ways of optimizing it. At the very end of the project I implemented batch rendering for particles and thought I had a very impressive system. Today, I do still feel proud of the particle system, but now that I know that I could have particles being handled on the GPU, I know exactly how to outdo my past system.
 
+
+
+### Text System
+
+Around the midpoint of the project I shifted my focus from working on the pipeline as a whole to implementing text rendering. So I implemented my own sprite sheet text, in the form of the [Text System](https://github.com/Trey-Mongeon/Long-March-Code-Samples/blob/main/TextSystem.h). My text system supports left, center, and right alignment in both world space and screen space. When I first created the text system it was limited to just a single line of left aligned text in screen space. Later in the project I expanded the text system to include all of its other features. To have text drawn entities can have their text component send a request to the text system which will be added to the draw list and then drawn on the next time the text system is told to render.
 
 
 ### Drawing
