@@ -38,7 +38,7 @@ At the time of making my particle system I was delighted at what I had designed 
 
 ### Text System
 
-Around the midpoint of the project I shifted my focus from working on the pipeline as a whole to implementing text rendering. So I implemented my own sprite sheet text, in the form of the [Text System](https://github.com/Trey-Mongeon/Long-March-Code-Samples/blob/main/TextSystem.h). My text system supports left, center, and right alignment in both world space and screen space. When I first created the text system it was limited to just a single line of left aligned text in screen space. Later in the project I expanded the text system to include all of its other features. To have text drawn entities can have their text component send a request to the text system which will be added to the draw list and then drawn on the next time the text system is told to render.
+Around the midpoint of the project I shifted my focus from working on the pipeline as a whole to implementing text rendering. So I implemented my own sprite sheet text, in the form of the [Text System](https://github.com/Trey-Mongeon/Long-March-Code-Samples/blob/main/TextSystem.h). My text system supports left, center, and right alignment in both world space and screen space. When I first created the text system it was limited to just a single line of left aligned text in screen space. Later in the project I expanded the text system to include all of its other features. To have text drawn, entities can have their text component send a request to the text system which will be added to the draw list and then drawn the next time the text system is told to render.
 
 
 ### Drawing
