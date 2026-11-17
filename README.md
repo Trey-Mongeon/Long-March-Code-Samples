@@ -8,6 +8,8 @@ As the only graphics programmer on the team I had the task of learning OpenGL an
 
 
 A short video demonstrating lots of particles being rendered and the text system in action.
+
+
 https://github.com/user-attachments/assets/811a6369-efe3-4386-8a44-01d9c239d179
 
 
