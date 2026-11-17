@@ -7,10 +7,13 @@ This repository contains some code from my Sophomore year game project at DigiPe
 As the only graphics programmer on the team I had the task of learning OpenGL and creating a 2D graphics engine at the same time, while also working fast enough that I did not hold back progress on the game.
 
 
-A short video demonstrating lots of particles being rendered and the text system in action.
+
+
+A short video demonstrating lots of particles being rendered and the text system in action:
 
 
 https://github.com/user-attachments/assets/811a6369-efe3-4386-8a44-01d9c239d179
+
 
 
 
